@@ -3,7 +3,7 @@
 Tic Tac Toe is a classic board game implemented in Python. The game allows the player to play against an AI opponent. The player can choose their character ('X' or 'O'), and the goal is to get three of their characters in a row, column, or diagonal on the game board. The AI opponent uses simple logic to make its moves.
 
 ## Usage
-- Run the script: `python tic_tac_toe.py`
+- Run the script: `python TicTacToe.py`
 - Choose your character ('X' or 'O').
 - Enter the position on the board to make your move (0-8).
 - The AI opponent will make its move.
